@@ -1,5 +1,5 @@
 # DataAnalystConcepts
-This is a notebook of lessons in data analysis using Python
+This is a notebook of lessons in data analysis using Python.
 
 Table of Contents
  - 4.2 Exploring Probability Distributions
