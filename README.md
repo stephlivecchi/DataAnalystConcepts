@@ -6,3 +6,4 @@ Table of Contents
  - 4.3 Intro to Sampling
  - 5.2 Evaluate Simple Linear Regression
  - 5.3 Evaluate Multilinear Regression
+ - 
